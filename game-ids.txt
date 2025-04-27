@@ -1,0 +1,5 @@
+Valorant=NExSANJU#1234=PC
+League of Legends=NExSANJU=NA
+Fortnite=NExSANJU=Epic Games
+Minecraft=NExSANJU=Java
+Call of Duty=NExSANJU#5678=Battle.net
