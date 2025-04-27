@@ -1,5 +1,1 @@
-BGMI=NExSANJU=92929292=MOBILE
-League of Legends=NExSANJU=69=NA
-Fortnite=NExSANJU=69=Epic Games
-Minecraft=NExSANJU=69=Java
-Call of Duty=NExSANJU#5678=69=Battle.net
+BGMI=NExSANJU=51459831182=MOBILE
