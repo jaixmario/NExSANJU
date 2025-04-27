@@ -1,4 +1,4 @@
-Valorant=NExSANJU#1234=PC
+BGMI=NExSANJU=92929292=MOBILE
 League of Legends=NExSANJU=NA
 Fortnite=NExSANJU=Epic Games
 Minecraft=NExSANJU=Java
