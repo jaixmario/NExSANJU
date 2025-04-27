@@ -1,0 +1,4 @@
+https://auroraflix.onrender.com = auroraflix
+https://jaiiiiiiiportfolio.vercel.app = portfolio
+https://github.com/jaixmario = github
+https://contact-marioo.vercel.app = contact-form
