@@ -1,4 +1,3 @@
-https://auroraflix.onrender.com = auroraflix
-https://jaiiiiiiiportfolio.vercel.app = portfolio
-https://github.com/jaixmario = github
-https://contact-marioo.vercel.app = contact-form
+https://www.instagram.com/nexsanju = Instagram
+https://facebook.com/100052550617358/ = Facebook
+https://youtube.com/@nexsanju = youtube
